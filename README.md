@@ -72,3 +72,4 @@ Additional Entities material on Unity Learn:
 - [Job system manual](https://docs.unity3d.com/Manual/JobSystem.html)
 
 
+Created by Jason Scott Heise
